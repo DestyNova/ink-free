@@ -1,3 +1,3 @@
-module github.com/chollinger93/ink-free
+module github.com/DestyNova/ink-free
 
 go 1.16
